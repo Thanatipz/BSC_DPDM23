@@ -14,3 +14,4 @@ Data preparation and Data mining
 * https://github.com/Thanatipz/BSC_DPDM23/blob/c32a4d80c6d4ad8e46ce8c0863564c0796e068fb/Understanding_Data.ipynb
 # Chapter 2
 * https://github.com/Thanatipz/BSC_DPDM23/blob/f20921e968ab6fbb4ca0cf5ee3d7c32485707f4c/Data_Preprocessing.ipynb
+* https://github.com/Thanatipz/BSC_DPDM23/blob/ed59c8e3ca706850b1e5ced56999238ca5ac8ecc/Dimensionality_Reduction_PCA.ipynb
