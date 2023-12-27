@@ -10,3 +10,4 @@ Data preparation and data mining
 * GitHub 5%
 * Final Score = Score * %attendance
 # Chapter 1
+*mapplot.ipynb
