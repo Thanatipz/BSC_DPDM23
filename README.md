@@ -12,3 +12,5 @@ Data preparation and data mining
 # Chapter 1
 * https://github.com/Thanatipz/BSC_DPDM23/blob/c56968d840d07b4f370353a19a1251a2f7ce8465/mapplot.ipynb
 * https://github.com/Thanatipz/BSC_DPDM23/blob/c32a4d80c6d4ad8e46ce8c0863564c0796e068fb/Understanding_Data.ipynb
+# Chapter 2
+* https://github.com/Thanatipz/BSC_DPDM23/blob/f20921e968ab6fbb4ca0cf5ee3d7c32485707f4c/Data_Preprocessing.ipynb
