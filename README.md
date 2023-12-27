@@ -9,3 +9,4 @@ Data preparation and data mining
 * Quiz(เดี่ยว ถามในห้อง) 5%
 * GitHub 5%
 * Final Score = Score * %attendance
+# Chapter 1
