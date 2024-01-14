@@ -20,4 +20,7 @@ Data preparation and Data mining
 ### Data Reduction , Reduce Dimention of Data
 * https://github.com/Thanatipz/BSC_DPDM23/blob/ed59c8e3ca706850b1e5ced56999238ca5ac8ecc/Dimensionality_Reduction_PCA.ipynb
 # chapter 3
+### Frequent_Patterns & Association_Rules
 * https://github.com/Thanatipz/BSC_DPDM23/blob/80063fc907c7ef01d0e09cc8e2ab381600c68942/Frequent_Patterns_(Association_Rules).ipynb
+# HW1 Group "กลุ้ม"
+* https://github.com/Thanatipz/BSC_DPDM23/blob/18f35fdb472db41fd30753e4020134c293680c8a/Frequent_Patterns_(Association_Rules).ipynb
