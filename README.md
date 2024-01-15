@@ -30,6 +30,6 @@ Data preparation and Data mining
 * พุทธิพงศ์ ยางนอก
 * ศตวรรษ มูลสันเทียะ
 ### Code HW1
-* https://github.com/Thanatipz/BSC_DPDM23/blob/18f35fdb472db41fd30753e4020134c293680c8a/Frequent_Patterns_(Association_Rules).ipynb
+*(https://github.com/Thanatipz/BSC_DPDM23/blob/ebb1766773a747e096645e4e9a2a0f20f723dd0c/Frequent_Patterns_(Association_Rules).ipynb)
 ### สไลด์นำเสนอ HW1
 * (https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing
