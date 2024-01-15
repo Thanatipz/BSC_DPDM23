@@ -26,4 +26,5 @@ Data preparation and Data mining
 # HW1:Group "กลุ้ม"
 * https://github.com/Thanatipz/BSC_DPDM23/blob/18f35fdb472db41fd30753e4020134c293680c8a/Frequent_Patterns_(Association_Rules).ipynb
 ### สไลด์นำเสนอ HW1
-* https://www.canva.com/design/DAF5234peF0/vPeEfng30EAx25TwtSgrxA/edit?utm_content=DAF5234peF0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* [https://www.canva.com/design/DAF5234peF0/vPeEfng30EAx25TwtSgrxA/edit?utm_content=DAF5234peF0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+](https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing
