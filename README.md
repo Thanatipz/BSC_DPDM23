@@ -29,7 +29,7 @@ Data preparation and Data mining
 * ธนาธิป อินทรคีรี
 * พุทธิพงศ์ ยางนอก
 * ศตวรรษ มูลสันเทียะ
-### Code HW1
+### CODE HW1
 * (https://github.com/Thanatipz/BSC_DPDM23/blob/ebb1766773a747e096645e4e9a2a0f20f723dd0c/Frequent_Patterns_(Association_Rules).ipynb)
 ### สไลด์นำเสนอ HW1
 * (https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing
