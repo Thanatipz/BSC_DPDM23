@@ -1,5 +1,5 @@
 # BSC_DPDM23
-Data preparation and Data mining
+* Data preparation and Data mining
 # Score
 
 * Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
