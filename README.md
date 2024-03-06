@@ -45,6 +45,11 @@
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9%203.pdf
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9%204.pdf
 #  Final Project (Group3) "ทองประเสริฐ_กลุ้ม"
+### Members
+* ตะวัน เบ้าหล่อเพชร    ขวัญสวรรค์ ทองประเสริฐ
+* ธนาธิป อินทรคีรี       นรีกานต์ ปัญญารักษ์
+* พุทธิพงศ์ ยางนอก      นริศรา โยธาจันทร์
+* ศตวรรษ มูลสันเทียะ    พิมพิกา ยอดศรี
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/association_rule.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/test_survey.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification_proj_DPDM.ipynb
