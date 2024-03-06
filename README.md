@@ -36,6 +36,8 @@
 #  HW3,HW4 (Classification,Decission tree)
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/HW4_criterionmax-leaf-nodes.pdf
+### สไลด์นำเสนอ
+*  https://www.canva.com/design/DAF9IaqU5lk/-OIIvuDo2CmVbEKYOOfOsw/edit?utm_content=DAF9IaqU5lk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 #  HW5
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/HW5%20Finished.png
 #  All Quiz in class
@@ -59,3 +61,6 @@
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/test_survey.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification_proj_DPDM.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Final_Project.ipynb
+### สไลด์นำเสนอ
+*  https://www.canva.com/design/DAF-WcysmBY/PECIm5zOmMxpIyxpRRV-og/edit?utm_content=DAF-WcysmBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
