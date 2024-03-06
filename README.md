@@ -33,18 +33,18 @@
 * (https://github.com/Thanatipz/BSC_DPDM23/blob/ebb1766773a747e096645e4e9a2a0f20f723dd0c/Frequent_Patterns_(Association_Rules).ipynb)
 ### สไลด์นำเสนอ HW1
 * (https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing
-###  HW3,HW4 (classification)
+#  HW3,HW4 (Classification,Decission tree)
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/HW4_criterionmax-leaf-nodes.pdf
-###  HW5
+#  HW5
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/HW5%20Finished.png
-###  All Quiz in class
+#  All Quiz in class
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/quiz_8_643021265-7_%E0%B8%98%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B.pdf
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9.pdf
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9%202.pdf
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9%203.pdf
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Quiz9%204.pdf
-###  Final Project
+#  Final Project (Group3) "ทองประเสริฐ_กลุ้ม"
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/association_rule.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/test_survey.ipynb
 *  https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification_proj_DPDM.ipynb
