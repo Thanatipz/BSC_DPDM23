@@ -1,3 +1,4 @@
+[------------------------------------------------]
 # BSC_DPDM23
 * Data preparation and Data mining
 # Score
@@ -9,7 +10,7 @@
 * Quiz(เดี่ยว ถามในห้อง) 5%
 * GitHub 5%
 * Final Score = Score * %attendance
-  
+[------------------------------------------------]
 # Chapter 1
 ### Basic Stat
 * บทที่1
