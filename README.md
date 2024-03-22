@@ -1,5 +1,5 @@
 
-# BSC_DPDM23
+# BSC_DPDM23 
 
  | Data preparation and Data mining|Description |Score|
  |---|---|---|
@@ -10,6 +10,13 @@
  |Quiz|((เดี่ยว) ถามในห้อง)| 5%|
  |GitHub| ภาพรวมGithub|5%|
  |Final Score |คะแนนรวม| Score * %attendance|
+ 
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi✨  I'm Thanatip Intharakheeree (Namphet)
+ (ธนาธิป อินทรคีรี) 643021265-7 
+* ✉️  Contact me at [thanatip.i@kkumail.com](mailto:thanatip.i@kkumail.com)
+* Other online contact channels <p align="left"> <a href="[[](https://www.facebook.com/profile.php?id=100009677046553)]" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a  href="[https://medium.com/@thanatip.i]" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+
 
 |CHAPTER 1 :Basic Stat, Histrogram , Vizsualazation , Scatter , Boxplot , Pie Chart , Bar Chart|
 |-----|
