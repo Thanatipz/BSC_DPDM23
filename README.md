@@ -90,7 +90,7 @@
 *  [Colab Test Final Project](https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/test_survey.ipynb)
 *  [Colab Classification Final Project](https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Classification_proj_DPDM.ipynb)
 *  [Colab Final Project Finished](https://github.com/Thanatipz/BSC_DPDM23/blob/bff161f35a625bc79fe027ddaf29209319511f10/Final_Project.ipynb)
-*  [ไลด์นำเสนอ](https://www.canva.com/design/DAF-WcysmBY/PECIm5zOmMxpIyxpRRV-og/edit?utm_content=DAF-WcysmBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+*  [สไลด์นำเสนอ](https://www.canva.com/design/DAF-WcysmBY/PECIm5zOmMxpIyxpRRV-og/edit?utm_content=DAF-WcysmBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 |Member|ID|
 |---|--|
