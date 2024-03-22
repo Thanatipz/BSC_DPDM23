@@ -4,11 +4,11 @@
  | Data preparation and Data mining|Description |Score|
  |---|---|---|
  |Midterm| (Data prepocessing ปฏิบัติ (เดี่ยว))| 20%|
- |Final|(ทฤษฎี data mining (เดี่ยว)) |20%
+ |Final|(ทฤษฎี Data mining (เดี่ยว)) |20%
  |Project|(Data prepocessing + Data mining (กลุ่ม))| 30%|
  |Homework|(แบ่งกลุ่มใหม่ทุกครั้ง) |20%|
  |Quiz|((เดี่ยว) ถามในห้อง)| 5%|
- |GitHub| ภาพรวมGithub|5%|
+ |GitHub| ภาพรวมใน Github|5%|
  |Final Score |คะแนนรวม| Score * %attendance|
  
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi✨  I'm Thanatip Intharakheeree (Namphet)
@@ -38,7 +38,7 @@
 |HW1:Group "กลุ้ม"|
 |---|
 
-* [CODE HW1](https://github.com/Thanatipz/BSC_DPDM23/blob/ebb1766773a747e096645e4e9a2a0f20f723dd0c/Frequent_Patterns_(Association_Rules).ipynb)
+* [CODING HW1](https://github.com/Thanatipz/BSC_DPDM23/blob/ebb1766773a747e096645e4e9a2a0f20f723dd0c/Frequent_Patterns_(Association_Rules).ipynb)
 * [สไลด์นำเสนอ ](https://drive.google.com/file/d/15i4MAEVaUnUO_0wkAdu9Rs1YoR832sDX/view?usp=sharing)
   
 |Member|ID|
