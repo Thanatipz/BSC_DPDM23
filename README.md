@@ -22,7 +22,7 @@
 
 
 
-|CHAPTER 1 :Basic Stat, Histrogram , Visualization , Scatter , Boxplot , Pie Chart , Bar Chart|
+|CHAPTER 1 :Basic Stat, Histrogram , Visualization , Scatter Plot , Boxplot , Pie Chart , Bar Chart|
 |-----|
 * [Lecture Colab Chapter 1](https://github.com/Thanatipz/BSC_DPDM23/blob/c56968d840d07b4f370353a19a1251a2f7ce8465/mapplot.ipynb)
 
