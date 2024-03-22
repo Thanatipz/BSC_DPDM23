@@ -29,7 +29,7 @@
 |CHAPTER 2 :Data Preprocessing  |
 |---|
 * [Lecture_Colab Data Preprocessing](https://github.com/Thanatipz/BSC_DPDM23/blob/f20921e968ab6fbb4ca0cf5ee3d7c32485707f4c/Data_Preprocessing.ipynb)
-* [Lecture_Chapter(ต่อ)](https://github.com/Thanatipz/BSC_DPDM23/blob/ed59c8e3ca706850b1e5ced56999238ca5ac8ecc/Dimensionality_Reduction_PCA.ipynb)
+* [Lecture_Chapter 2(ต่อ)](https://github.com/Thanatipz/BSC_DPDM23/blob/ed59c8e3ca706850b1e5ced56999238ca5ac8ecc/Dimensionality_Reduction_PCA.ipynb)
 
 |CHAPTER 3 :Frequent_Patterns & Association_Rules|
 |--|
